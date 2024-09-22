@@ -11,6 +11,9 @@ This program allows interactive users to search for "near misses" in the formula
 
 ## Utilization
 1. **Clone the repository**:
+2. 
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
 3. **Input values when prompted**:
 - **\(n\)**: The power to apply in the calculation, between 3 and 11.
 - **\(k\)**: The maximum value that \(x\) and \(y\) can take (must be greater than 10).
